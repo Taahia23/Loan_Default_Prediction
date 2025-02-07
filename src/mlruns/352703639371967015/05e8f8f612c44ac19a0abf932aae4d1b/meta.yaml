@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Data_Science/DSP-2_final_project_demo/src/mlruns/352703639371967015/05e8f8f612c44ac19a0abf932aae4d1b/artifacts
+end_time: 1738711704066
+entry_point_name: ''
+experiment_id: '352703639371967015'
+lifecycle_stage: active
+run_id: 05e8f8f612c44ac19a0abf932aae4d1b
+run_name: ensemble_model
+run_uuid: 05e8f8f612c44ac19a0abf932aae4d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738711441404
+status: 3
+tags: []
+user_id: ACER

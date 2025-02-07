@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938305917412530820/6f1adc910b6244c6b331858192d08dc7/artifacts
+end_time: 1738850679262
+entry_point_name: ''
+experiment_id: '938305917412530820'
+lifecycle_stage: active
+run_id: 6f1adc910b6244c6b331858192d08dc7
+run_name: ensemble_model
+run_uuid: 6f1adc910b6244c6b331858192d08dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738850427038
+status: 3
+tags: []
+user_id: ACER
