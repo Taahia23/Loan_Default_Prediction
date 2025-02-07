@@ -15,21 +15,10 @@ import numpy as np
 # 1.  Load the data
 data = pd.read_csv('data/Loan_default.csv')
 
-# Drop LoanID column
+# Drop LoanID column which is no value in prediction
 data.drop(columns=['LoanID'], inplace=True)
 
 print(data.head())
-
-# Exploratory Data Analysis (EDA)
-# Develop a dashboard for data visualization
-import dtale
-
-d = dtale.show(data)
-d.open_browser()
-
-d.kill()
-
-
 
 # Categorize the Income variable into different bins (groups). 
 # Helps in stratified sampling when splitting the data, ensuring a balanced distribution
